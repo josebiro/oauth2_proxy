@@ -1,6 +1,6 @@
 ## oauth2_proxy
 
-This repository contains **Dockerfile** of [oauth2_proxy](https://github.com/bitly/oauth2_proxy/)
+This repository contains a **Dockerfile* of [oauth2_proxy](https://github.com/bitly/oauth2_proxy/)
 for [Kubernetes](https://www.kubernetes.io/).
 
 Bitly doesn't produce a docker build, and other folks seem to have not updated
