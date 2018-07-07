@@ -17,6 +17,9 @@ help: ## This help.
 
 
 # DOCKER TASKS
+clean:
+	docker image prune -a -f
+
 rmdi: ## Removes dangling images.
 	-docker images -a --filter=dangling=true -q | xargs docker rmi
 
