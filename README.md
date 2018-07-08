@@ -1,5 +1,7 @@
 ## oauth2_proxy
 
+[![Build Status](https://travis-ci.org/josebiro/oauth2_proxy.svg?branch=master)](https://travis-ci.org/josebiro/oauth2_proxy)
+
 This repository contains a **Dockerfile* of [oauth2_proxy](https://github.com/bitly/oauth2_proxy/)
 for [Kubernetes](https://www.kubernetes.io/).
 
